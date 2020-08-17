@@ -1,6 +1,5 @@
 # -
-记录一些例子
-
+使用 Set 可以很容易地实现并集（Union）、交集（Intersect）和差集（Difference）
 ```js
 let a = new Set([1, 2, 3]);
 let b = new Set([4, 3, 2]);
